@@ -172,6 +172,11 @@ footer .attribution a {
     text-decoration: none;
 }
 @media only screen and (max-width:600px) {
+    html,body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
 #container {
     grid-template-columns: 1fr;
     margin: 30px;
