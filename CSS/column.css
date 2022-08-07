@@ -16,7 +16,7 @@ body {
 }
 #container {
     margin-top: 10%;
-    margin-left: 20%;
+    margin-left: 10%;
     display: grid;
     grid-template-columns: repeat(3, 250px);
 }
@@ -179,7 +179,7 @@ footer .attribution a {
     }
 #container {
     grid-template-columns: 1fr;
-    margin: 15px;
+    margin: 10px;
 }
 .orange {
     border-top-left-radius: 10px;
